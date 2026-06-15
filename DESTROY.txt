@@ -10,3 +10,7 @@
 ||ir-na.amazon-adsystem.com^
 ||rcm-na.amazon-adsystem.com^
 ||ws-na.amazon-adsystem.com^
+||bat.bing.com^
+||bingads.microsoft.com^
+||ads.microsoft.com^
+||c.bing.com^
