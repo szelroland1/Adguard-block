@@ -1,16 +1,1 @@
-||adtago.s3.amazonaws.com^
-||analyticsengine.s3.amazonaws.com^
-||advice-ads.s3.amazonaws.com^
-||advertising-api-eu.amazon.com^
-||amazon-adsystem.com^
-||aax.amazon-adsystem.com^
-||aan.amazon.com^
-||c.amazon-adsystem.com^
-||fls-na.amazon.com^
-||ir-na.amazon-adsystem.com^
-||rcm-na.amazon-adsystem.com^
-||ws-na.amazon-adsystem.com^
-||bat.bing.com^
-||bingads.microsoft.com^
-||ads.microsoft.com^
-||c.bing.com^
+||googleads.g.doubleclick.net^
